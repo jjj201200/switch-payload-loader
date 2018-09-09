@@ -13,8 +13,6 @@ const RCM_PAYLOAD_ADDRESS = 0x40010000;
 const INTERMEZZO_LOCATION = 0x4001F000;
 const PAYLOAD_LOAD_BLOCK = 0x40020000;
 
-
-
 function createRCMPayload(intermezzo, payload) {
   const rcmLength = 0x30298;
 

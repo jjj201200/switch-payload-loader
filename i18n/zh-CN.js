@@ -21,6 +21,7 @@ let zhCN = {
   "optionUpload"    :"上传 Payload",
   "h4GetByteArray"  :"获取Payload byte array (无Sploit)",
   "goButton"        :"传递 Payload!",
+  "h3Log"           :"日志:",
   "clearlogsbutton" :"清除日志",
   "disclaimer1" :'Source can be found on <a href="https://github.com/ElijahZAwesome/web-cfw-loader/">GitHub</a> (or by hitting view source, there is no backend!).',
   "disclaimer2" :'Ported from <a href="https://github.com/reswitched/fusee-launcher">fusee-launcher</a>.',
